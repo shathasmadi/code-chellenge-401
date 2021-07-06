@@ -10,8 +10,10 @@ Hint: You can use the array function reverse
 ------------------------------------------------------------------------------------------------ */
 
 const reverseString = (str) => {
-    // Solution code here...
-
+   const splitString = str.split("");
+  const reverseArray = splitString.reverse();
+   const joinArray = reverseArray.join("");
+    return joinArray;
 };
 
 /* ------------------------------------------------------------------------------------------------

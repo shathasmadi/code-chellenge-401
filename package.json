@@ -1,0 +1,25 @@
+{
+    "name": "401-entrance-exam-code-challenge",
+    "version": "1.0.0",
+    "jest": {
+        "verbose": true
+    },
+    "description": "",
+    "main": "challenge.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/LTUC/401-entrance-exam-code-challenge.git"
+    },
+    "author": "Tamim Hamoudi, Rawan Al Nujoom",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/LTUC/401-entrance-exam-code-challenge/issues"
+    },
+    "homepage": "https://github.com/LTUC/401-entrance-exam-code-challenge#readme",
+    "dependencies": {
+        "jest": "^26.6.3"
+    }
+}
